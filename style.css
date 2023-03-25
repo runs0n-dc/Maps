@@ -1,0 +1,25 @@
+.click{
+    margin-left: 45%;
+    padding: 10px 10px;
+    font-size: 23px;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    align-items: end;
+}
+.removebtn{
+    margin-left: 43%;
+    margin-top: 16px;
+    padding: 10px 10px;
+    font-size: 23px;
+    font-weight: 700;  font-family:Arial, Helvetica, sans-serif;
+}
+.map{
+    height: 50%;
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 20px;
+   
+}
+.top{
+    display: flex;
+}
